@@ -1,0 +1,19 @@
+What should be there in a Standard Post
+
+1.Compulsary on each event page
+
+	#breadcrumbs
+	#Introduction
+	#Download problem statement
+	#Cash Prizes
+
+2.Optional
+
+	#arena
+	#resources
+	#format
+	#Task
+	#bot specification
+	#rules
+	#judging
+

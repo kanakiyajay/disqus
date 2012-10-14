@@ -1,0 +1,14 @@
+3 levels of access
+
+1. Administrator
+
+
+2. Event Coordinator
+
+	#Access to every event(post) in his Department(category) and discussion Thread
+
+3. Event Heads
+
+	#Access to only 
+
+4. Event Coheads
