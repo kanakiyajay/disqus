@@ -1,3 +1,17 @@
+Which would be better?
+
+Menu
+	
+	#All important links in massive maegamenu
+	#DropDown initialised on hover/click for events
+
+Front Page Options 
+
+	#Sequence-js
+	#Arbor-js
+	#Sigma js
+
+
 Commenting System Options
 
 	#DisQus

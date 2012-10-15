@@ -1,4 +1,4 @@
-What should be there in a Standard Post
+What should be there in a Standard Event Page (Post)
 
 1.Compulsary on each event page
 
@@ -6,6 +6,7 @@ What should be there in a Standard Post
 	#Introduction
 	#Download problem statement
 	#Cash Prizes
+	#Discussion Thread
 
 2.Optional
 
